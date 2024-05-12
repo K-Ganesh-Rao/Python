@@ -10,3 +10,8 @@ letter_index = abc.index(letter)  #index of a 1st input letter
 number_index = int(position[1]) - 1  #index of number -1 is to match 0 indexing format 
 map[number_index][letter_index] = "X"
 print(f"{line1}\n{line2}\n{line3}")
+
+#   A   B   C
+#   1   1   1
+#   2   2   2
+#   3   3   3
