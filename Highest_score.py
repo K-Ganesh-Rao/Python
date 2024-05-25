@@ -1,4 +1,4 @@
-#input the list of scores
+ #input the list of scores
 # Calculate without max function
 student_score = input().split()
 
